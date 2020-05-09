@@ -1,0 +1,25 @@
+/* on line es mas poderoso que internal y este que external */
+body{
+  background-color: orange;
+}
+  
+}    
+h1 {
+    color: white;
+    size: 5cp;
+}          
+   a {
+    color: #EFECCA;
+    size: 2pc;
+    
+  }
+  h3{
+    align-items:center;
+    color: red;
+  }
+  .logo{
+        background-image: orange;
+  }
+  div{
+    color:white;
+  }
